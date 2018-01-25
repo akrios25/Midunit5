@@ -10,7 +10,8 @@ import nyc.c4q.midunit5assessment.model.User;
 
 public class UserResponse {
     private ArrayList<User> results;
-     public ArrayList<User> getResults(){
+
+    public ArrayList<User> getResults(){
          return results;
      }
 }
